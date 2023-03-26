@@ -3,11 +3,10 @@
 Para el desararrollo del Challenge se usó las Java como lenguaje de Programacion, Eclipse como IDE, una API de coversion de divisas gratuita y
 una librería externa para poder usar objetos JSON 
 
-<p>
-En esta imagen presentamos la GUI de inicio en donde se puede elegir entre tres distintos conversores (monedas, longitudes y temperaturas)
 
+En esta imagen presentamos la GUI de inicio en donde se puede elegir entre tres distintos conversores (monedas, longitudes y temperaturas)
 ![Esta es la interfaz principal](https://user-images.githubusercontent.com/104963019/227788731-c2b0753f-a4fb-4c58-9e8e-9f7d4d5aa94b.png)
-</p>
+
 
 En esta imagen presentamo la GUI de conversion de monedas
 ![La interfaz de conversion de monedas](https://user-images.githubusercontent.com/104963019/227788749-e0117d5e-541d-4e9a-b0f9-8bb6b350d1df.png)
